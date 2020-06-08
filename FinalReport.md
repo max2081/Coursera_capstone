@@ -5,7 +5,6 @@ INTRODUCTION/BUSINESS PROBLEM
 For my final project, I will be looking to find the capital cities with the best bars in America.
 I will be creating a comparable list of the bars in the capital cities of each state of America, 
 and ranking them by rating. We can then find which capital cities have the best bars in America.
-
 The reason I chose this project is because I wanted to look at the saleable aspects of foursquare’s data. 
 What makes most sense to me is its usage by travel companies to make recommendation to their clients. 
 This comparable list would mean that travel companies in my country would be able to recommend the 
